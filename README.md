@@ -52,6 +52,5 @@ Each operation handles signed input and ensures output remains within 3-bit sign
 
 - 🧩 Basic logic gates (AND, OR, XOR, NOT)
 - 🏗️ Composite gates (Half Adder, Full Adder, Two's Complement logic)
-- 🧱 Control logic for sign handling and overflow detection
 
 ---
